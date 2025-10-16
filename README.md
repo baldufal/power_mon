@@ -1,5 +1,5 @@
-# PowerMon: 9-channel power monitor and controller
-**A simple power monitoring and control board based on the [INA3221](https://www.ti.com/product/INA3221) current sensor and an [ESP32-C3 super mini](https://www.espboards.dev/esp32/esp32-c3-super-mini/) running (a custom compiled version of) [Tasmota](https://tasmota.github.io/).**
+# PowerMon
+A **9-channel power monitoring and control board** based on the [INA3221](https://www.ti.com/product/INA3221) current sensor and an [ESP32-C3 super mini](https://www.espboards.dev/esp32/esp32-c3-super-mini/) running (a custom compiled version of) [Tasmota](https://tasmota.github.io/).
 
 ![assembled board](images/setup.jpg)
 ![tasmota ui](images/screenshot_tasmota.png)
